@@ -1,0 +1,24 @@
+{
+    "expo": {
+      "name": "SexyCakes",
+      "slug": "sexy-cakes-deliv",
+      "privacy": "public",
+      "platforms": [
+        "ios"
+      ],
+      "version": "1.1",
+      "orientation": "portrait",
+      "icon": "./assets/icon.png",
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": false,
+        "bundleIdentifier": "com.sexydeliv"
+      },
+      "description": "Testing delivery"
+    }
+  }

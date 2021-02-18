@@ -1,0 +1,6 @@
+module Pods_saymile {
+  umbrella header "Pods-saymile-umbrella.h"
+
+  export *
+  module * { export * }
+}
